@@ -50,8 +50,8 @@
       <file leaf-file-name="helloworld-service-tomcat.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helloworld-service-tomcat.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="210">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -804,7 +804,7 @@
       <workItem from="1488437604744" duration="883000" />
       <workItem from="1489037129613" duration="598000" />
       <workItem from="1489729147817" duration="317000" />
-      <workItem from="1489974611303" duration="605000" />
+      <workItem from="1489974611303" duration="658000" />
     </task>
     <task id="LOCAL-00015" summary="kummary로 변경">
       <created>1486093119709</created>
@@ -1153,7 +1153,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37202000" />
+    <option name="totallyTimeSpent" value="37255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="240" y="39" width="1139" height="755" extended-state="0" />
@@ -1641,8 +1641,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/helloworld-service-tomcat.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="210">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
