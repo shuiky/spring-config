@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a10ef917-8bde-4765-a5ea-0fbecf012255" name="Default" comment="bootstrap property 추가">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloworld-client.properties" afterPath="$PROJECT_DIR$/helloworld-client.properties" />
-    </list>
+    <list default="true" id="a10ef917-8bde-4765-a5ea-0fbecf012255" name="Default" comment="bootstrap property 추가" />
     <ignored path="spring-config.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -854,7 +851,7 @@
       <workItem from="1488437604744" duration="883000" />
       <workItem from="1489037129613" duration="598000" />
       <workItem from="1489729147817" duration="317000" />
-      <workItem from="1489974611303" duration="6041000" />
+      <workItem from="1489974611303" duration="6094000" />
     </task>
     <task id="LOCAL-00015" summary="kummary로 변경">
       <created>1486093119709</created>
@@ -1203,7 +1200,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42638000" />
+    <option name="totallyTimeSpent" value="42691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="240" y="39" width="1139" height="755" extended-state="0" />
